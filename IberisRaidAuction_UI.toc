@@ -1,0 +1,9 @@
+## Interface: 11508, 20505, 30404, 50502, 120005
+## Title: |cff91d7f2IberisRaidAuction_UI|r
+## Title-koKR: |cff91d7f2IberisRaidAuction_UI|r
+## Notes: UI companion for IberisRaidAuction
+## Notes-koKR: IberisRaidAuction 전용 UI
+## Author: Iberis
+## Version: 0.1
+## IconTexture: Interface\Icons\INV_Misc_Coin_01
+## X-Category: Auction/Economy
