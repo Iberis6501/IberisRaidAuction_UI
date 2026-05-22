@@ -1,3 +1,6 @@
-CHANGELOG.md
 .release/
-*.zip
+.DS_Store
+Thumbs.db
+*.bak
+*.iberis.bak
+CHANGELOG.md
